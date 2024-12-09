@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tecgraf-desafio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+185c26249214b8bb9596260167bd88e2a239cb80")]
 [assembly: System.Reflection.AssemblyProductAttribute("tecgraf-desafio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tecgraf-desafio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
