@@ -1,0 +1,14 @@
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/bin/Debug/net9.0/tecgraf-desafio
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/bin/Debug/net9.0/tecgraf-desafio.deps.json
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/bin/Debug/net9.0/tecgraf-desafio.runtimeconfig.json
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/bin/Debug/net9.0/tecgraf-desafio.dll
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/bin/Debug/net9.0/tecgraf-desafio.pdb
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/tecgraf-desafio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/tecgraf-desafio.AssemblyInfoInputs.cache
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/tecgraf-desafio.AssemblyInfo.cs
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/tecgraf-desafio.csproj.CoreCompileInputs.cache
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/tecgraf-desafio.dll
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/refint/tecgraf-desafio.dll
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/tecgraf-desafio.pdb
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/tecgraf-desafio.genruntimeconfig.cache
+/Users/henriquebafilho/Documents/GitHub/tecgraf-desafio/obj/Debug/net9.0/ref/tecgraf-desafio.dll

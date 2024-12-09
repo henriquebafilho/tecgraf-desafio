@@ -1,0 +1,38 @@
+DESAFIO PROCESSO SELETIVO INSTITUTO TECGRAF
+
+O código com a resolução das questões está no arquivo "Program.cs".
+Os arquivos de entrada e saída estão na pasta /arquivosEntradaSaida.
+Basta rodar o comando "dotnet run" no terminal que ele será executado e os arquivos atualizados.
+Na função Main são chamadas as 3 funções para executar cada um dos exercícios.
+
+Exercicio 1
+Para resolver esta questão, vamos percorrer o arquivo "serieSemDV.txt" através de um for e,
+para cada serie, vamos chamar a função RetornaHexadecimal(), passando como parâmetro a série.
+Essa função vai percorrer cada caractere da série, pegando seu Código ASC e somando à variável
+somaCaracteres. Em seguida, vamos pegar o resto da divisão de somaCaracteres por 16 e converte-lo
+para hexadecimal. Por fim, concatenaremos a serie dígito verificador, um hífen e o hexadecimal 
+calculado, retornaremos este valor e o escreveremos no arquivo serieComDV.txt.
+
+Exercicio 2
+Para resolver o Exercicio 2, vamos usar uma lógica parecida com a do Exercicio 1: vamos percorrer
+o arquivo serieParaVerificar.txt com as séries e, para cada série, vamos somar o Código ASC de cada
+caractere novamente e armazenar seu hexadecimal na variável hexadecimalIdeal. Em seguida, vamos
+comparar as variáveis hexadecimalIdeal e hexadecimalOriginal, que armazena o hexadecimal vindo do
+arquivo. Por fim, vamos concatenar a série original, um espaço em branco e o resultado da comparação
+entre as variáveis hexadecimalIdeal e hexadecimalOriginal, retornar seu valor à função principal
+e escrever o resultado no arquivo serieVerificada.txt.
+
+Exercicio 3
+Para resolver o Exercicio 3, vamos começar percorrendo as séries no arquivo serieParaRelatorio.txt
+e armazenando a sigla de 3 dígitos do seus países em uma List chamada paises. Em seguida, vamos
+chamar a função RetornaPaisEQuantidade(), passando como parâmetro a variável paises. Dentro dessa
+função, vamos criar uma variável chamada paisesSemRepeticao, que como o nome diz, armazenará o 
+a lista de países passada como parâmetro, mas sem repetições. Logo após, vamos percorrer a lista
+paisesSemRepeticao e, para cada país percorrido, vamos percorrer o arquivo paises.txt em busca do
+país que tenha a mesma sigla do país atual. Quando este for encontrado, seu nome será armazenado
+na variável nomePais, serão contadas quantas vezes ele se repete na lista paises (armazenada na 
+variável qtdRepetições) e, por fim, serão concatenadas as variáveis nomePais e qtdRepetições, 
+separadas por um hífen. Ao terminar de percorrer todos os países, será retornada uma lista de 
+strings com as concatenações anteriormente citadas, faremos um Sort() nela (para que os países 
+fiquem em ordem alfabética) e, por fim, percorreremos a lista escrevendo os resultados no arquivo 
+listaTotais.txt
